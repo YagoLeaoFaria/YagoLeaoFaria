@@ -2,7 +2,6 @@
 
 - 🔭 Sou programador front-end
 - 🌱 Estudando: ReactJS, React Native e Typescript
-- 😄 Pronouns: Ele/dele
 
 <div align="center">
   <a href="https://github.com/YagoLeaoFaria">
