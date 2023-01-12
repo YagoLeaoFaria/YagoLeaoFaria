@@ -1,13 +1,7 @@
-### Olá! Eu sou Yago Leão de Faria
+### Hi! I am Yago Leão de Faria
 
-- 🔭 Sou programador front-end
-- 🌱 Estudando: ReactJS, React Native e Typescript
-
-<div align="center">
-  <a href="https://github.com/YagoLeaoFaria">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YagoLeaoFaria&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoLeaoFaria&layout=compact&langs_count=7&theme=great-gatsby"/>
-</div>
+- 🔭 I'm a front-end programmer
+- 🌱 Studying: ReactJS, React Native and Typescript
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
